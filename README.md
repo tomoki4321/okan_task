@@ -22,11 +22,11 @@ $ rails s
 
 ### カタログ設計
 
-https://docs.google.com/spreadsheets/d/1zq1YKt7NgdfnzZ5ppQDITs7NEfcclKncmY9Aiy8iD40/edit#gid=1300396658
+https://docs.google.com/spreadsheets/d/1zq1YKt7NgdfnzZ5ppQDITs7NEfcclKncmY9Aiy8iD40/edit?usp=sharing
 
 ### テーブル定義書
 
-https://docs.google.com/spreadsheets/d/1zq1YKt7NgdfnzZ5ppQDITs7NEfcclKncmY9Aiy8iD40/edit#gid=1300396658
+https://docs.google.com/spreadsheets/d/1zq1YKt7NgdfnzZ5ppQDITs7NEfcclKncmY9Aiy8iD40/edit?usp=sharing
 
 ### ワイヤーフレーム
 
