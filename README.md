@@ -1,24 +1,41 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### 開発言語
+- Ruby3.0.1
+- Rails6.1.7
 
-Things you may want to cover:
+### 就業Termの技術
+- devise
+- AWS EC2
 
-* Ruby version
+### カリキュラム外の技術
+- Vue.jsを用いたSPA
 
-* System dependencies
+### 実行手順
+```
+$ git clone git@github.com:tomoki4321/okan_task.git
+$ cd okan_task
+$ bundle install
+$ rails db:create && rails db:migrate
+$ rails s
+```
 
-* Configuration
+### カタログ設計
 
-* Database creation
+https://docs.google.com/spreadsheets/d/1zq1YKt7NgdfnzZ5ppQDITs7NEfcclKncmY9Aiy8iD40/edit#gid=1300396658
 
-* Database initialization
+### テーブル定義書
 
-* How to run the test suite
+https://docs.google.com/spreadsheets/d/1zq1YKt7NgdfnzZ5ppQDITs7NEfcclKncmY9Aiy8iD40/edit#gid=1300396658
 
-* Services (job queues, cache servers, search engines, etc.)
+### ワイヤーフレーム
 
-* Deployment instructions
+https://cacoo.com/diagrams/MdVU2qMdp4nXSkha/7F53F
 
-* ...
+### ER図
+
+![ER図](ER図.png)
+
+### 画面遷移図
+
+![画面遷移図](画面遷移図.png)
